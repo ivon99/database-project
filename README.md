@@ -1,9 +1,6 @@
-# Database_Project
-Repository for OOP course project "Database".
+# Project Database
 
-**Project "Database"**
-
-Project "Database" implements a program supporting operations with simple databases.
+The project implements a program supporting operations with databases.
 A database consist of a series of tables, each table saved in its own file.
 The database is then saved in a master file (catalogue), which contains a list of the tables in the given database, where each table is associated with its name and filename.
 
