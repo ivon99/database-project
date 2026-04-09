@@ -9,7 +9,7 @@ The supported data types for the tables are whole numbers, rational numbers, str
 
 **Commands:**
 The following commands are supported:\
-        = **import** : adds table from file filenameto the database\
+        = **import** : adds table from file to the database\
         = **close** : closes currently opened file\
         = **save**: saves the currently open file \
         = **saveas**: saves the currently opened tables in file\
